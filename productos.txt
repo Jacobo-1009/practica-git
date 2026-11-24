@@ -2,3 +2,4 @@ manzanas-2000
 banano-4000
 uvas-5000
 peras-3000
+mandarina-1000
